@@ -1,2 +1,2 @@
 # git-cherubim
-Thi si for training.
+This is for training purpose.
